@@ -4,9 +4,11 @@
 
 
 /* -------------Start Navigation --------- */
-.header_area .main-menu .navbar  .navbar-brand {
-    padding: 0 2rem 0 5rem;
+.header_area .main-menu .navbar .navbar-brand img{
+    max-width: 120px ;
+    max-height: 120px;
 }
+
 .header_area .main-menu .navbar{
     padding: 1rem 20rem;
 }
@@ -14,7 +16,7 @@
 .header_area .main-menu .nav-item .nav-link{
  font-family: "Roboto" , cursive;
  font-weight: 500;
- padding: 1.7rem;
+ padding: 1.8rem; 
  color: black;    
 }
 
